@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-demo/static/css/main.28fbff80.css",
+    "main.js": "/portfolio-demo/static/js/main.d056aa84.js",
+    "static/js/453.acca0757.chunk.js": "/portfolio-demo/static/js/453.acca0757.chunk.js",
+    "static/media/project-Education.png": "/portfolio-demo/static/media/project-Education.bce6c56240ba176bdcf4.png",
+    "static/media/react-icon-black.png": "/portfolio-demo/static/media/react-icon-black.1571a4bece640542903b.png",
+    "static/media/BERHOUCH@4x.png": "/portfolio-demo/static/media/BERHOUCH@4x.8879ea452e31fc814149.png",
+    "static/media/FB_IMG_1705437194399.jpg": "/portfolio-demo/static/media/FB_IMG_1705437194399.44d2b1405a67e4d17395.jpg",
+    "static/media/figma-black.png": "/portfolio-demo/static/media/figma-black.80bebf575fb83ece6d16.png",
+    "static/media/revicons.eot": "/portfolio-demo/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-demo/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/brand-framer-motion-icon-black.png": "/portfolio-demo/static/media/brand-framer-motion-icon-black.364cf3d49447ac85c1fa.png",
+    "static/media/js-black.png": "/portfolio-demo/static/media/js-black.e9d170f029643ca8763d.png",
+    "static/media/revicons.woff": "/portfolio-demo/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio-demo/index.html",
+    "main.28fbff80.css.map": "/portfolio-demo/static/css/main.28fbff80.css.map",
+    "main.d056aa84.js.map": "/portfolio-demo/static/js/main.d056aa84.js.map",
+    "453.acca0757.chunk.js.map": "/portfolio-demo/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28fbff80.css",
+    "static/js/main.d056aa84.js"
+  ]
+}
